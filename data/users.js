@@ -1,3 +1,4 @@
+module.exports.users =
 [
   {
       "name": "Ada Lovelace",
