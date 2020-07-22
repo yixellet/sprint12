@@ -1,0 +1,27 @@
+{
+  "name": "sprint12",
+  "version": "0.0.1",
+  "description": "Creating web-server for The Place project",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yixellet/sprint12.git"
+  },
+  "keywords": [
+    "yandex",
+    "practicum",
+    "sprint12",
+    "Place",
+    "Mesto",
+    "server"
+  ],
+  "author": "Kotelevsky K. A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yixellet/sprint12/issues"
+  },
+  "homepage": "https://github.com/yixellet/sprint12#readme"
+}
